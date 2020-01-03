@@ -68,10 +68,6 @@ gallery:
     image_path: /assets/images/engagement-josh-alyssa-cassieanna16.jpg
     alt: "Engagement Photo 16"
     title: "Josh and Alyssa Engagement 16 (Cassie Anna Photography)"
-  - url: /assets/images/engagement-josh-alyssa-cassieanna02.jpg
-    image_path: /assets/images/engagement-josh-alyssa-cassieanna02.jpg
-    alt: "Engagement Photo 02"
-    title: "Josh and Alyssa Engagement 17 (Cassie Anna Photography)"
   - url: /assets/images/engagement-josh-alyssa-cassieanna17.jpg
     image_path: /assets/images/engagement-josh-alyssa-cassieanna17.jpg
     alt: "Engagement Photo 17"
