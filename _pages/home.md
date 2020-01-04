@@ -3,8 +3,7 @@ layout: splash
 permalink: /
 title: "#BodaDeBeard"
 header:
-  overlay_filter: 0.3
-  overlay_image: /assets/images/bodadebeard-home-page.jpg
+  overlay_color: "#333333"
 excerpt: >
-  Summer 2021.
+  Josh <i class='far fa-heart'></i> Alyssa. Summer 2021.
 ---

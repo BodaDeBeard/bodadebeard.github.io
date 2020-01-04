@@ -8,7 +8,7 @@
 
 # Theme Settings
 remote_theme             : "mmistakes/minimal-mistakes@4.17.2"
-minimal_mistakes_skin    : neon
+minimal_mistakes_skin    : default
 
 # Site Settings
 locale                   : "en-US"
@@ -17,7 +17,7 @@ title_separator          : "-"
 description              : "#BodaDeBeard (Beard Wedding) Summer 2021"
 url                      : "https://bodadebeard.com"
 repository               : "BodaDeBeard/bodadebeard.github.io"
-logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+logo                     : "/assets/favicon/apple-touch-icon.png"
 
 # Plugins (previously gems:)
 plugins:
