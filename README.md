@@ -1,2 +1,2 @@
 # bodadebeard.github.io
-Home – #BodaDeBeard (Beard Wedding)
+Home – Joshua & Alyssa - Beard Wedding #BodaDeBeard
