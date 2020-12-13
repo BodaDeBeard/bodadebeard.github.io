@@ -1,11 +1,11 @@
 ---
 layout: splash
 permalink: /engagement/
-title: "Engagement Photos"
+title: "Engagement"
 header:
   overlay_color: "#333333"
 excerpt: >
-  <i class="far fa-gem"></i> December 21, 2019.
+  December 21, 2019
 gallery:
   - url: /assets/images/engagement-josh-alyssa-cassieanna01.jpg
     image_path: /assets/images/engagement-josh-alyssa-cassieanna01.jpg

@@ -12,9 +12,9 @@ minimal_mistakes_skin    : default
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Beard Wedding"
+title                    : "Joshua & Alyssa"
 title_separator          : "-"
-description              : "#BodaDeBeard (Beard Wedding) Summer 2021"
+description              : "Beard Wedding #BodaDeBeard"
 url                      : "https://bodadebeard.com"
 repository               : "BodaDeBeard/bodadebeard.github.io"
 logo                     : "/assets/favicon/apple-touch-icon.png"
