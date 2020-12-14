@@ -5,7 +5,7 @@ title: "Engagement"
 header:
   overlay_color: "#333333"
 excerpt: >
-  December 21, 2019
+  
 gallery:
   - url: /assets/images/engagement-josh-alyssa-cassieanna01.jpg
     image_path: /assets/images/engagement-josh-alyssa-cassieanna01.jpg
@@ -99,5 +99,7 @@ gallery:
 ---
 
 {% include gallery id="gallery" layout="half" caption="" %}
+
+December 21, 2019
 
 Photos from <a href="https://www.cassieanna.com" target="_blank">Cassie Anna Photography</a>.
