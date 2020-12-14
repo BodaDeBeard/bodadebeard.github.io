@@ -26,7 +26,11 @@ $times: Times, serif !default;
 $bodoni: "Bodoni MT", serif !default;
 $calisto: "Calisto MT", serif !default;
 $garamond: Garamond, serif !default;
+$playfair: "Playfair Display", serif !default;
 
+$global-font-family: $sans-serif !default;
+$header-font-family: $serif !default;
+$caption-font-family: $sans-serif !default;
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
