@@ -15,7 +15,7 @@ locale                   : "en-US"
 title                    : "Joshua & Alyssa"
 title_separator          : "-"
 description              : "Joshua & Alyssa's wedding website #BodaDeBeard #BeardWedding August 14, 2021"
-url                      : "https://bodadebeard.com"
+url                      : ""
 repository               : "BodaDeBeard/bodadebeard.github.io"
 logo                     : "/assets/favicon/apple-touch-icon.png"
 
